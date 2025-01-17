@@ -18,7 +18,9 @@ Python 3.6.5
 
 Mysql
 
-Onvif https://github.com/Allforgot/OnvifClient_gSOAP/blob/master/GENERATE_ONVIF_CODE.md
+TensorRT 8.5.2
+
+Onvif:https://github.com/Allforgot/OnvifClient_gSOAP/blob/master/GENERATE_ONVIF_CODE.md
 
 CMake
 
