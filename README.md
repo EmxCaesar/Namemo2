@@ -8,6 +8,8 @@ This repository contains the source code and data used for the paper:
 **"Enhancing Teacher-Student Interaction: A Vision-based Name-indicating System Using Advanced Image Processing Techniques"**
 
 ## Prerequisites
+Ubuntu 20.04
+
 OpenCV 4.4.0
 
 CUDA-10.2 + cuDNN-8.0
