@@ -1,6 +1,6 @@
-# Namemo
+# Namemo2
 
-NaMemo provides teachers with a panoramic view of the classroom, enabling them to click on face boxes to access students’ information. 
+NaMemo2 provides teachers with a panoramic view of the classroom, enabling them to click on face boxes to access students’ information. 
 This system aims to support teacher-student interaction by facilitating teachers in recognizing students by name.
 
 This repository contains the source code and data used for the paper:
