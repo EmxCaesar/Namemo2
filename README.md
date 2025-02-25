@@ -5,7 +5,7 @@ This system aims to support teacher-student interaction by facilitating teachers
 
 This repository contains the source code and data used for the paper:
 
-**"Enhancing Teacher-Student Interaction: A Vision-based Name-indicating System Using Advanced Image Processing Techniques"**
+**"A Vision-Based Technical Implementation of NaMemo2 with a Ghost Elimination Algorithm for Dense Classroom Scenes"**
 
 ## Prerequisites
 Ubuntu 20.04
